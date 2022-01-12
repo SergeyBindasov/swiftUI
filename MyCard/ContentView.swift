@@ -21,7 +21,7 @@ struct ContentView: View {
                     .overlay(
                         Circle().stroke(Color.white, lineWidth: 3)
                     )
-                Text("Сергей Биндасов")
+                Text("Sergey Bindasov")
                     .font(.custom("Pacifico-Regular", size: 40))
                     .bold()
                     .foregroundColor(.white)
