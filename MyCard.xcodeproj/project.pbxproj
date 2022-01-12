@@ -291,7 +291,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MyCard/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "../../../../../Downloads/Pacifico/Pacifico-Regular.ttf MyCard/Preview\\ Content";
 				DEVELOPMENT_TEAM = LT772WDFTX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -323,7 +323,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MyCard/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "../../../../../Downloads/Pacifico/Pacifico-Regular.ttf MyCard/Preview\\ Content";
 				DEVELOPMENT_TEAM = LT772WDFTX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
